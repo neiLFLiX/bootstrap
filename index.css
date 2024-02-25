@@ -1,0 +1,98 @@
+body {
+    background-image: url(images/smcc.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.school-logo img {
+    height: 45px;
+
+}
+
+header {
+    display: flex;
+}
+
+main {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar {
+    background-color: rgb(37, 37, 89);
+}
+
+.collapse {
+    justify-content: end;
+}
+
+.navbar-brand {
+    color: wheat;
+}
+
+.nav-link {
+    color: wheat;
+}
+
+.contacts img{
+    height: 30px;
+}
+
+p{
+    text-align: justify;
+}
+
+.card .about {
+    background-color: rgb(72, 72, 153);
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.card {
+    margin: 10%;
+}
+
+.tablelogo img {
+    height: 200px;
+}
+
+.courses p {
+    text-align: center;
+}
+
+.courses img {
+    height: 150px;
+}
+
+.ccis .card {
+    background-color: rgb(41, 120, 41);
+    color: wheat;
+}
+
+.cte .card {
+    background-color: rgb(90, 90, 214);
+    color: wheat;
+}
+
+.cas .card {
+    color: wheat;
+    background-color: rgb(108, 78, 163);
+}
+
+.cbm .card {
+    background-color: rgb(141, 141, 13);
+    color: wheat;
+}
+
+.ccje .card {
+    background-color: rgb(178, 38, 38);
+    color: wheat;
+}
+
+.cthm .card {
+    background-color: rgb(2, 151, 2);
+    color: wheat;
+}
